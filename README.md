@@ -19,6 +19,7 @@ http://docs.aws.amazon.com/AWSJavaSDK/latest/javadoc/
 - Amazon Redshift
 - Amazon DynamoDB
 - Amazon SimpleDB
+- Amazon Elastic MapReduce (Amazon EMR)
 
 ## How to use
 
@@ -235,7 +236,7 @@ https://github.com/seratch/awscala/blob/master/src/test/scala/awscala/SimpleDBSp
 
 ### Amazon Elastic MapReduce (Amazon EMR)
 
-Created by @CruncherBigData. If you have any feedback or questions, please contact @CruncherBigData.
+Created by [@CruncherBigData](https://github.com/CruncherBigData) . If you have any feedback or questions, please contact [@CruncherBigData](https://github.com/CruncherBigData) .
 
 https://github.com/seratch/awscala/blob/master/src/main/scala/awscala/emr/EMR.scala
 
